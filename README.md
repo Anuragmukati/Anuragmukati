@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning and Machine Learning Projects<br><br>🌱 I’m currently learning Data Science , Machine learning , Deep learning, and Natural Language Processing <br><br>📫 Reach me @anuragmukati09@gmail.com<br><br>⚡ Fun fact I have a really big heart, and I empathize with others very easily.
+🔭 I’m currently working on Time Series Analysis, Deep Learning and Machine Learning Projects<br><br>🌱 I’m currently learning Data Science , Machine learning , Deep learning, and Natural Language Processing <br><br>📫 Reach me @anuragmukati09@gmail.com<br><br>⚡ Fun fact I have a really big heart, and I empathize with others very easily.
 
 
 ## 🌐 Socials:
